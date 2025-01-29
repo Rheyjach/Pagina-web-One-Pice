@@ -1,0 +1,106 @@
+body{
+    background-color: #3F82BF;
+}
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    color: #3F82BF;
+    padding-top: 10px;
+}
+header{
+    background-color: white;
+    margin: 15px;
+    padding-bottom: 10px;
+}
+nav{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center
+}
+#redes{
+    position: absolute;
+    top: 50px;
+    right: 25px
+
+}
+nav a{
+    text-decoration: none;
+    color: #3F82BF;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    border: solid;
+}
+.navegacion:hover{
+    cursor: pointer;
+    background-color: #3F82BF;
+    color: white;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    height: 500px;
+}
+section{
+    background-color: white;
+    margin: 15px;
+    padding: 5px;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: justify;
+    padding: 5px;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 5px;
+}
+ol{
+    padding-left: 30px;
+    padding-bottom: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+fieldset{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+footer{
+    background-color: white;
+    margin: 15px;
+    padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+table{
+    
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid;
+    border-collapse: collapse;
+}
+th,td{
+    border: 1px solid;
+    text-align: center;
+    padding: 2px;
+    font-family: 'Times New Roman', Times, serif;
+}
+caption{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    border: 1px solid;
+    margin: 1px;
+    padding: 2px;
+}
